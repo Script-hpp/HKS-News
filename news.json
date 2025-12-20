@@ -1,0 +1,14 @@
+[
+  {
+    "Id": "fussball_2025_01",
+    "Title": "Schul-Fußballturnier ⚽",
+    "Description": "Das große Match steht an! Kommt vorbei und unterstützt unser Team.",
+    "EventDate": "2025-12-22T10:00:00",
+    "IsActive": true,
+    "ShowOnStartup": true,
+    "LinkUrl": "https://www.hks26.tech",
+    "LinkText": "Mehr Infos",
+    "BackgroundColorHex": "#2C3E50",
+    "IconName": "sports_soccer_24px.xml"
+  }
+]

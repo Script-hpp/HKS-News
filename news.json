@@ -9,6 +9,7 @@
     "LinkUrl": "https://www.hks26.tech",
     "LinkText": "Mehr Infos",
     "BackgroundColorHex": "#2C3E50",
-    "IconName": "sports_soccer_24px.xml"
+    "IconName": "sports_soccer_24px.xml",
+    "ImageUrl": "https://deine-url.de/bild.jpg"
   }
 ]

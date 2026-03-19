@@ -8,5 +8,6 @@
   "iconName": "verified_user_24px.png",
   "isSponsor": true,
   "isActive": true,
+  "ImageUrl":"https://raw.githubusercontent.com/Script-hpp/HKS-News/refs/heads/main/sponsor.svg",
   "showOnStartup": false
 }

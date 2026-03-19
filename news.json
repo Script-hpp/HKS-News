@@ -1,16 +1,12 @@
-[
-  {
-    "Id": "fussball_2025_01",
-    "Title": "⚽ Heinrich-Kleyer-Schule vs. Nord Gymnasium",
-    "Description": "Großes Schul-Fußballduell! Die Heinrich-Kleyer-Schule trifft auf das Nord Gymnasium. Mit dem Gutscheincode erhaltet ihr einen Rabatt – kommt vorbei und unterstützt unser Team!",
-    "EventDate": "2026-01-11T18:00:00",
-    "IsActive": true,
-    "ShowOnStartup": true,
-    "LinkUrl": "https://www.hks26.tech",
-    "LinkText": "Jetzt kaufen",
-    "BackgroundColorHex": "#2C3E50",
-    "IconName": "sports_soccer_24px.xml",
-    "ImageUrl": "https://raw.githubusercontent.com/Script-hpp/HKS-News/refs/heads/main/ads.png",
-    "DiscountCode": "NOWTT"
-  }
-]
+{
+  "id": "schule-ohne-rassismus",
+  "title": "Schule ohne Rassismus",
+  "description": "Schule mit Courage. Wir stehen gemeinsam für Toleranz und Vielfalt an der HKS.",
+  "gradientStartHex": "#232526",
+  "gradientEndHex": "#414345",
+  "textColorHex": "#FFFFFF",
+  "iconName": "verified_user_24px.png",
+  "isSponsor": true,
+  "isActive": true,
+  "showOnStartup": false
+}

@@ -1,4 +1,5 @@
-{
+[
+  {
   "id": "schule-ohne-rassismus",
   "title": "Schule ohne Rassismus",
   "description": "Schule mit Courage. Wir stehen gemeinsam für Toleranz und Vielfalt an der HKS.",
@@ -8,6 +9,7 @@
   "iconName": "task_alt_24px.png",
   "isSponsor": true,
   "isActive": true,
-  "ImageUrl":"https://raw.githubusercontent.com/Script-hpp/HKS-News/refs/heads/main/sponsor.svg",
+  "ImageUrl":"https://raw.githubusercontent.com/Script-hpp/HKS-News/refs/heads/main/sponsor.png",
   "showOnStartup": false
-}
+  }
+]

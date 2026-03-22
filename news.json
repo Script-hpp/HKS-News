@@ -8,7 +8,7 @@
   "textColorHex": "#FFFFFF",
   "iconName": "task_alt_24px.png",
   "isSponsor": true,
-  "isActive": true,
+  "isActive": false,
   "ImageUrl":"https://raw.githubusercontent.com/Script-hpp/HKS-News/refs/heads/main/sponsor.png",
   "showOnStartup": false
   }
